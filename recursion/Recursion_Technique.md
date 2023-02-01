@@ -31,3 +31,5 @@ fun_Name(x- 1); // smaller instances of the same problem - never go to infinity.
 }
 
 ```
+
+examples : https://github.com/AhmedAboughosen/problem_sets/tree/master/out/production/problem_sets/com/problems/recursion
